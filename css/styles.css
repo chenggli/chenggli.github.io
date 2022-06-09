@@ -11511,5 +11511,8 @@ section.resume-section .resume-section-content {
 .active, .dot:hover {
   background-color: #717171;
 }
+/* Fading animation */
+.fade {
+}
 
 
